@@ -1,0 +1,20 @@
+{
+ "intercept": -3.3397293874836684,
+ "coef": {
+  "domain: different": -3.7022918102585387,
+  "domain: same": 2.933301250499611,
+  "name: similar": -0.675733282879551,
+  "name: very similar": 0.053625849479822,
+  "name: same root name": 1.088393377728285,
+  "name: identical name": 1.3295068022221268,
+  "state: different": -2.0379427337653286,
+  "state: same": 1.94492128578126,
+  "industry: different": -2.0466610803231857,
+  "industry: same": 0.9037419980680317,
+  "employees: different": -1.5763110929489583,
+  "employees: within 30%": 1.5062699668302055,
+  "employees: exact": 2.0307096771619775,
+  "owner: different": -0.6011420533270001,
+  "owner: same": 0.5081206053429325
+ }
+}

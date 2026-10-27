@@ -1,0 +1,20 @@
+{
+ "intercept": -0.5681771824215922,
+ "coef": {
+  "email: different": -0.49349591991134534,
+  "email: same local part": -1.6980349532460672,
+  "email: exact": 1.945680143902049,
+  "phone: different": -1.1918995231268175,
+  "phone: same": 1.1041187687963667,
+  "last_name: different": 0.0,
+  "last_name: similar (JW \u2265 0.9)": 0.11240374648740904,
+  "last_name: exact": -0.5055569100154345,
+  "first_name: different": -1.9502238789013935,
+  "first_name: nickname / prefix": 0.07866191212728207,
+  "first_name: exact": 1.4784088032460854,
+  "company: different": -2.2865293457033213,
+  "company: same company": 1.893376182175295,
+  "title: different": -1.0287169229926785,
+  "title: same": 0.6970887955171016
+ }
+}
